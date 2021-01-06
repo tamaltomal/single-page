@@ -112,9 +112,10 @@ header nav ul li a {
 #tag-project {
   font-family: "Oswald", sans-serif;
   font-size: 40px;
-  width: 38%;
+  width: 45%;
   margin: auto;
   margin-bottom: 100px;
+  padding-left: 12%;
   color: #000033;
 }
 
@@ -149,7 +150,7 @@ header nav ul li a {
 #expertise {
   height: 800px;
   background-color: lightcyan;
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 #tag-skill {
@@ -158,13 +159,13 @@ header nav ul li a {
   width: 30%;
   margin: auto;
   padding-left: 12%;
-  margin-bottom: 40px;
+  margin-bottom: 5px;
   color: #000033;
 }
 
 #skills {
-  width: 65%;
-  height: 75%;
+  width: 75%;
+  height: 85%;
   margin: auto;
 }
 
@@ -202,7 +203,7 @@ header nav ul li a {
 
 .tag-name {
   color: white;
-  font-size: 25px;
+  font-size: 30px;
   margin-top: 7%;
   margin-left: 5%;
 }
