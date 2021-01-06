@@ -95,3 +95,20 @@ header nav ul li a {
 .button {
   margin-right: 10px;
 }
+
+#project {
+  height: 550px;
+  background-color: whitesmoke;
+  padding-top: 130px;
+}
+
+#project h1 {
+  font-size: 40px;
+  width: 41.5%;
+  margin: auto;
+  color: dimgray;
+}
+
+.tomato-highlighter {
+  color: tomato;
+}
