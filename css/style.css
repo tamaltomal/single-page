@@ -148,9 +148,9 @@ header nav ul li a {
 }
 
 #expertise {
-  height: 800px;
+  height: 900px;
   background-color: lightcyan;
-  padding-top: 20px;
+  padding-top: 50px;
 }
 
 #tag-skill {
@@ -159,13 +159,13 @@ header nav ul li a {
   width: 30%;
   margin: auto;
   padding-left: 12%;
-  margin-bottom: 5px;
+  margin-bottom: 50px;
   color: #000033;
 }
 
 #skills {
   width: 75%;
-  height: 85%;
+  height: 75%;
   margin: auto;
 }
 
