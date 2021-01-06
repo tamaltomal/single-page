@@ -4,9 +4,6 @@ body {
   box-sizing: border-box;
 }
 
-#intro {
-  height: 450px;
-}
 header {
   width: 32%;
   margin-left: auto;
@@ -31,6 +28,10 @@ header nav ul li a {
   text-decoration: none;
   color: dimgray;
   font-weight: bold;
+}
+
+#intro {
+  height: 450px;
 }
 
 .text,
@@ -97,18 +98,43 @@ header nav ul li a {
 }
 
 #project {
-  height: 550px;
+  height: 650px;
   background-color: whitesmoke;
-  padding-top: 130px;
+  padding-top: 100px;
+  width: 100%;
 }
 
 #project h1 {
   font-size: 40px;
   width: 41.5%;
   margin: auto;
+  margin-bottom: 100px;
   color: dimgray;
 }
 
 .tomato-highlighter {
   color: tomato;
+}
+
+.gallery {
+  width: 90%;
+  margin: auto;
+  height: 50%;
+}
+
+.deck {
+  width: 27%;
+  float: left;
+  background-color: white;
+  box-shadow: 1px 1px 10px grey;
+  padding: 15px;
+  border-radius: 15px;
+  color: dimgray;
+  margin-left: 2%;
+  height: 100%;
+}
+
+.card {
+  width: 100%;
+  margin: auto;
 }
