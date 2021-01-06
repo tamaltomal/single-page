@@ -192,7 +192,7 @@ footer {
   margin: auto;
   font-size: 35px;
   margin-top: 1%;
-  color: dimgray;
+  color: #00001a;
 }
 
 #social-logo {
@@ -211,4 +211,8 @@ footer {
 
 #instagram {
   margin-bottom: 6px;
+}
+
+.blue-marker {
+  color: #00001a;
 }
