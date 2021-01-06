@@ -1,6 +1,7 @@
 body {
   margin: 0px;
   box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
@@ -24,6 +25,7 @@ header nav ul li {
 }
 
 header nav ul li a {
+  font-family: Arial, Helvetica, sans-serif;
   text-decoration: none;
   color: dimgray;
   font-weight: bold;
@@ -53,8 +55,8 @@ header nav ul li a {
 }
 
 .tag-intro {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 40px;
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
   margin: 0px;
   color: dimgray;
 }
@@ -85,7 +87,7 @@ header nav ul li a {
 }
 
 #tag-about {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Oswald", sans-serif;
   font-size: 30px;
   margin: 0px;
   margin-top: 90px;
@@ -107,10 +109,10 @@ header nav ul li a {
   width: 100%;
 }
 
-#tag-2 {
-  font-family: Arial, Helvetica, sans-serif;
+#tag-project {
+  font-family: "Oswald", sans-serif;
   font-size: 40px;
-  width: 42%;
+  width: 38%;
   margin: auto;
   margin-bottom: 100px;
   color: dimgray;
@@ -164,29 +166,31 @@ header nav ul li a {
 }
 
 .caption {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Oswald", sans-serif;
   position: absolute;
   float: left;
-  top: 25%;
-  left: 8%;
+  top: 20%;
+  left: 12%;
   color: ivory;
   font-size: 40px;
 }
 
 footer {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Oswald", sans-serif;
   height: 190px;
 }
 
 #tag-connected {
-  width: 16%;
+  width: 13%;
   margin: auto;
+  font-size: 20px;
   color: dimgray;
 }
 
 #tag-mail {
-  width: 18.5%;
+  width: 20%;
   margin: auto;
+  font-size: 35px;
   margin-top: 1%;
   color: dimgray;
 }
