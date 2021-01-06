@@ -91,3 +91,7 @@ header nav ul li a {
 #about p {
   width: 70%;
 }
+
+.button {
+  margin-right: 10px;
+}
