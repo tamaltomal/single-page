@@ -1,6 +1,5 @@
 body {
   margin: 0px;
-  font-family: Arial, Helvetica, sans-serif;
   box-sizing: border-box;
 }
 
@@ -52,20 +51,16 @@ header nav ul li a {
   padding-left: 130px;
   padding-right: 0px;
 }
-.text h1 {
+
+.tag-intro {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 40px;
   margin: 0px;
-  margin-top: 90px;
   color: dimgray;
 }
 
 .tomato-marker {
-  font-size: 33px;
   color: tomato;
-  margin: 0px;
-  padding: 0px;
-  margin-bottom: 20px;
 }
 
 .text p {
@@ -89,6 +84,14 @@ header nav ul li a {
   padding-left: 150px;
 }
 
+#tag-about {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  margin: 0px;
+  margin-top: 90px;
+  color: dimgray;
+}
+
 #about p {
   width: 70%;
 }
@@ -104,7 +107,8 @@ header nav ul li a {
   width: 100%;
 }
 
-#project h1 {
+#tag-2 {
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 40px;
   width: 41.5%;
   margin: auto;
@@ -120,13 +124,14 @@ header nav ul li a {
   width: 90%;
   margin: auto;
   height: 50%;
+  margin-left: 6%;
 }
 
 .deck {
   width: 27%;
   float: left;
   background-color: white;
-  box-shadow: 1px 1px 10px grey;
+  box-shadow: 1px 1px 10px lightgray;
   padding: 15px;
   border-radius: 15px;
   color: dimgray;
@@ -137,4 +142,69 @@ header nav ul li a {
 .card {
   width: 100%;
   margin: auto;
+}
+
+#social {
+  width: 60%;
+  margin: auto;
+  margin-top: 90px;
+  position: relative;
+  margin-bottom: 70px;
+}
+
+#social img {
+  width: 100%;
+}
+
+.chit-chat {
+  position: absolute;
+  float: left;
+  top: 40%;
+  right: 10%;
+}
+
+.caption {
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  float: left;
+  top: 25%;
+  left: 8%;
+  color: ivory;
+  font-size: 40px;
+}
+
+footer {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 190px;
+}
+
+#tag-connected {
+  width: 15%;
+  margin: auto;
+  color: dimgray;
+}
+
+#tag-mail {
+  width: 18.5%;
+  margin: auto;
+  margin-top: 1%;
+  color: dimgray;
+}
+
+#social-logo {
+  width: 15%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+#social-logo img {
+  margin-left: 7%;
+}
+
+#facebook {
+  margin-bottom: 4px;
+}
+
+#instagram {
+  margin-bottom: 6px;
 }
